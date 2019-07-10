@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820742121080",
+    "firebase_url": "https://mindfultacos.firebaseio.com",
+    "project_id": "mindfultacos",
+    "storage_bucket": "mindfultacos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820742121080:android:69eed89fa43b9ebc",
+        "android_client_info": {
+          "package_name": "net.aucutt.mindfultaco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820742121080-0b9a0htqliiu6862vhnus8optmqrur0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7MpUx_JuO3GX_YzwAvvpvVcqrtFuRQG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820742121080-0b9a0htqliiu6862vhnus8optmqrur0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
